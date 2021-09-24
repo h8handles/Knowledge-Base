@@ -10,7 +10,7 @@ Various resources for hacking and security related topics
 [Manually Convert MSF Module](https://netsec.ws/?p=2627)
 
 
-[Mika's Cheat Sheet ](https://mikadmin.fr/blog/pentest-cheatsheet/
+[Mika's Cheat Sheet ](https://mikadmin.fr/blog/pentest-cheatsheet/)
 
 
 
